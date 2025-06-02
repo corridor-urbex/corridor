@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Abandoned Textile Mill",
+          "description": "A 4-story mill built in 1906, now mostly gutted. Graffiti, some intact machinery. Access via rear alley. Watch for loose floors."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.1652, 39.9526]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Disused Subway Entrance",
+          "description": "Old entrance sealed off in the 1980s. Still accessible via storm drain path 100m north. Moderate risk."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.9851, 40.7580]
+        }
+      }
+    ]
+  }
+  
