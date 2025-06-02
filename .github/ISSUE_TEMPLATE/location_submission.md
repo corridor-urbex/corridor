@@ -1,26 +1,18 @@
 ---
-name: 📍 Location Submission
-about: Submit a new urbex location for review
-title: "[Submission] <name of location>"
+name: Location Submission
+about: Suggest a new urbex location to add to the map
+title: "[Submission] LOCATION NAME HERE"
 labels: submission
-assignees: ""
 ---
 
-**DO NOT CHANGE THE FORMATTING OF THIS FILE!** Doing so will break the submission bot and your submission will be rejected.
+Location Name:
+Abandoned Warehouse
 
-### 🏚️ Location Name:
-<!-- e.g. Abandoned Train Station -->
+Coordinates:
+40.7128, -74.0060
 
-### 📍 Coordinates:
-<!-- e.g. 40.7128, -74.0060 -->
+Description:
+An abandoned warehouse near the docks. Broken glass, graffiti. Accessible through side door. Risk: Low.
 
-### 📄 Description:
-<!-- Notes, access info, risk level, graffiti, etc. -->
-
-### 📷 Optional Photos:
-<!-- Links to hosted images (imgur/freepik/etc) -->
-
-### ✅ Checklist
-* I've confirmed this is not already on the map
-* Coordinates are accurate
-* No dangerous or illegal access required
+Photos (optional):
+https://imgur.com/example1
